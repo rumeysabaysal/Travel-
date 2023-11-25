@@ -8,9 +8,8 @@
 -This GitHub repository contains the source code for a comprehensive travel and booking website aimed at exploring Greece. 
 
 # Özellikler
--Her farklı ekran boyutuna uygun tasarım
 -SEO uyumlu html dizimi
--güncel HTML ve CSS sürümü
+-Güncel HTML ve CSS sürümü
 
 # Katkıda Bulunanlar
 -Rümeysa Baysal
